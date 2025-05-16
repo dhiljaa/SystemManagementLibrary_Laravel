@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-3">
-                <h2 class="admin-heading">Update Author</h2>
+                <h2 class="admin-heading">Ubah Data Penulis</h2>
             </div>
         </div>
         <div class="row">
@@ -12,8 +12,9 @@
                 <form class="yourform" action="{{ route('authors.update', $auther->id) }}" method="post"
                     autocomplete="off">
                     @csrf
+                    @method('PUT')
                     <div class="form-group">
-                        <label>Author Name</label>
+                        <label>Nama Penulis</label>
                         <input type="text" class="form-control @error('name') isinvalid @enderror" name="name"
                             value="{{ $auther->name }}" required>
                         @error('name')
@@ -22,7 +23,7 @@
                             </div>
                         @enderror
                     </div>
-                    <input type="submit" name="submit" class="btn btn-danger" value="Update" required>
+                    <input type="submit" name="submit" class="btn btn-danger" value="Perbarui" required>
                 </form>
             </div>
         </div>
