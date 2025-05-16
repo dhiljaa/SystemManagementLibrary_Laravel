@@ -39,7 +39,7 @@ Manajemen perpustakaan berbasis web dibangun dengan **Laravel 10**, men-cover si
 
 ## 🚀 Instalasi Cepat
 
-```bash
+bash
 # 1. Clone repo
 git clone https://github.com/dhiljaa/SystemManagementLibrary_Laravel.git
 cd SystemManagementLibrary_Laravel
