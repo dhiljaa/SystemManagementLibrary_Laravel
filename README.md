@@ -98,10 +98,41 @@ Rute terotentikasi (ringkasan):
 
 ## 📸 Cuplikan Layar
 
-<!--
-Tambahkan tangkapan layar di folder /screenshots lalu sematkan di sini, contoh:
-![Dashboard](screenshots/dashboard.png)
--->
+## Screenshots
+
+### Dashboard
+![Dashboard Page](Dashboard_Page.png)
+
+### Login
+![Login Page](Login_Page.png)
+
+### Buku
+![Buku Page](Buku_Page.png)
+
+### Penulis
+![Penulis Page](Penulis_Page.png)
+
+### Peminjaman
+![Peminjaman Page](Peminjaman_Page.png)
+
+### Reset Password
+![Reset Page](Reset_Page.png)
+
+### Kategori
+![Kategori Page](Kategori_Page.png)
+
+### Penerbit
+![Penerbit Page](Penerbit_Page.png)
+
+### Siswa Terdaftar
+![Siswa Terdaftar Page](Siswa_Terdaftar_Page.png)
+
+### Laporan
+![Laporan Page](Laporan_Page.png)
+
+### Pengaturan
+![Pengaturan Page](Pengaturan_Page.png)
+
 
 ---
 
@@ -130,7 +161,7 @@ Proyek ini dilisensikan di bawah **MIT License** — silakan lihat file `LICENSE
 
 > Dibuat dengan ❤ oleh \[nama Anda] — Selamat berkarya dan semoga bermanfaat!
 
-````
+
 
 ### Cara pakai
 1. **Buat atau timpa** file `README.md` di root repositori.
