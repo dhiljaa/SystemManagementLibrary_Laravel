@@ -101,37 +101,37 @@ Rute terotentikasi (ringkasan):
 ## Screenshots
 
 ### Dashboard
-![Dashboard Page](Dashboard_Page.png)
+![Dashboard Page](public/screenshots/Dashboard_Page.png)
 
 ### Login
-![Login Page](Login_Page.png)
+![Login Page](public/screenshots/Login_Page.png)
 
 ### Buku
-![Buku Page](Buku_Page.png)
+![Buku Page](public/screenshots/Buku_Page.png)
 
 ### Penulis
-![Penulis Page](Penulis_Page.png)
+![Penulis Page](public/screenshots/Penulis_Page.png)
 
 ### Peminjaman
-![Peminjaman Page](Peminjaman_Page.png)
+![Peminjaman Page](public/screenshots/Peminjaman_Page.png)
 
 ### Reset Password
-![Reset Page](Reset_Page.png)
+![Reset Page](public/screenshots/Reset_Page.png)
 
 ### Kategori
-![Kategori Page](Kategori_Page.png)
+![Kategori Page](public/screenshots/Kategori_Page.png)
 
 ### Penerbit
-![Penerbit Page](Penerbit_Page.png)
+![Penerbit Page](public/screenshots/Penerbit_Page.png)
 
 ### Siswa Terdaftar
-![Siswa Terdaftar Page](Siswa_Terdaftar_Page.png)
+![Siswa Terdaftar Page](public/screenshots/Siswa_Terdaftar_Page.png)
 
 ### Laporan
-![Laporan Page](Laporan_Page.png)
+![Laporan Page](public/screenshots/Laporan_Page.png)
 
 ### Pengaturan
-![Pengaturan Page](Pengaturan_Page.png)
+![Pengaturan Page](public/screenshots/Pengaturan_Page.png)
 
 
 ---
