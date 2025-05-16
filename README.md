@@ -73,7 +73,7 @@ php artisan serve
 
 | Role       | Username       | Password   |
 | ---------- | -------------- | ---------- |
-| Admin Demo | `tauseedzaman` | `password` |
+| Admin Demo | `sungokong` | `password` |
 
 ---
 
