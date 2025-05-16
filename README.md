@@ -159,7 +159,7 @@ Proyek ini dilisensikan di bawah **MIT License** — silakan lihat file `LICENSE
 
 ---
 
-> Dibuat dengan ❤ oleh \[nama Anda] — Selamat berkarya dan semoga bermanfaat!
+> Dibuat dengan ❤ oleh \[Sungokong Company] — Selamat berkarya dan semoga bermanfaat!
 
 
 
@@ -171,8 +171,4 @@ Proyek ini dilisensikan di bawah **MIT License** — silakan lihat file `LICENSE
    git commit -m "docs: tambah README lengkap"
    git push
 ````
-
-3. Buka halaman GitHub repo — README baru akan tampil otomatis.
-
-Silakan menyesuaikan (badge, screenshot, penulis, dsb.) sesuai kebutuhan. Good luck!
 
