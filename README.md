@@ -39,26 +39,33 @@ Manajemen perpustakaan berbasis web dibangun dengan **Laravel 10**, men-cover si
 
 ## 🚀 Instalasi Cepat
 
-bash
+
 # 1. Clone repo
+```bash
 git clone https://github.com/dhiljaa/SystemManagementLibrary_Laravel.git
 cd SystemManagementLibrary_Laravel
+```
 
 # 2. Instal dependensi backend
+```bash
 composer install
-
+```
 # 3. Instal & build asset frontend
+```bash
 npm install
 npm run dev            # atau npm run build untuk production
-
+```
 # 4. Salin env & generate key
+```bash
 cp .env.example .env   # Windows: copy .env.example .env
 php artisan key:generate
-
+```
 # 5. Atur koneksi database di .env lalu migrate + seed demo data
+```bash
 php artisan migrate:fresh --seed
-
+```
 # 6. Jalankan server lokal
+```bash
 php artisan serve
 ````
 
