@@ -2,9 +2,8 @@
 
 # Laravel Library Management System
 
-Berikut template **README.md** siap‐pakai untuk repo **SystemManagementLibrary\_Laravel**-mu. Tinggal salin tempel ke file `README.md` di root proyek GitHub-mu—semua instruksi sudah dalam Bahasa Indonesia dan lengkap dengan panduan instalasi cepat, fitur, serta kredensial demo.
 
-````markdown
+markdown
 # 📚 SystemManagementLibrary_Laravel
 
 Manajemen perpustakaan berbasis web dibangun dengan **Laravel 10**, men-cover siklus penuh pengelolaan buku, penulis, penerbit, kategori, peminjaman, dan laporan. Cocok untuk sekolah, kampus, maupun perpustakaan umum skala kecil–menengah.
