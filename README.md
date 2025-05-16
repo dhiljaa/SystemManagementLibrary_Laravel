@@ -159,7 +159,7 @@ Proyek ini dilisensikan di bawah **MIT License** — silakan lihat file `LICENSE
 
 ---
 
-> Dibuat dengan ❤ oleh \[Sungokong Company] — Selamat berkarya dan semoga bermanfaat!
+> Dibuat dengan ❤ oleh \[Tauseedzaman + Sungokong Company] — Selamat berkarya dan semoga bermanfaat!
 
 
 
