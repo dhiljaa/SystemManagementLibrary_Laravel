@@ -60,6 +60,10 @@ npm run dev            # atau npm run build untuk production
 cp .env.example .env   # Windows: copy .env.example .env
 php artisan key:generate
 ```
+
+```
+php artisan storage:link
+```
 # 5. Atur koneksi database di .env lalu migrate + seed demo data
 ```bash
 php artisan migrate:fresh --seed
